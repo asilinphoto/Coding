@@ -1,5 +1,5 @@
 # Coding
-Learning to code through Codeacademy
+Learning to code through Codecademy
 <!DOCTYPE html>
 <html>
   <head>
